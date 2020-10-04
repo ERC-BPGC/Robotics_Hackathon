@@ -8,3 +8,5 @@ You can refer our handbook for various materials related to Robotics https://erc
 You can also refer ROS navigation stack to help you get started http://wiki.ros.org/navigation (for Part A)
 
 ALso checkout the ROS wiki page about interfracing OpenCV with ROS http://wiki.ros.org/vision_opencv (for Part B)
+
+OpenCV Tutorials https://docs.opencv.org/master/d9/df8/tutorial_root.html
